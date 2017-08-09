@@ -287,7 +287,7 @@ class Api
 
     const CMD_EXPRESS_CHECKOUT_MOBILE = '_express-checkout-mobile';
 
-    const VERSION = '108.0';
+    const VERSION = '114.0';
 
     protected $client;
 
